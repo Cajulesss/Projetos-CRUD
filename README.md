@@ -29,6 +29,10 @@ criar pessoa ou aluno, listando todos os dados desse indivíduo e encerrar o pro
   As informações ficam em memória, devido a esse motivo não obtem-se um cadastro no banco de dados.Ao final da
   aplicação perde-se o histórico.
   </pre>
+  
+  <pre>
+  Problemas na Versão1 do CRUD-java já estão sendo resolvidos para a Versão2!
+  </pre>
 
 
 </body>
